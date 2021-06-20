@@ -1,0 +1,8 @@
+- Decorator
+- Flyweight
+- Proxy
+
+- Command
+- State
+- Interpreter
+- Visitor
